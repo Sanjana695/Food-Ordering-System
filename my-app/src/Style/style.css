@@ -1,0 +1,216 @@
+ @import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Redressed', cursive !important; 
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* -----------------Navbar------------------- */
+
+
+.navbar-nav{
+  margin-left: 65%;
+}
+
+/* .zmdi-shopping-cart{
+  margin-left: 100%;
+} */
+
+
+/*------------------- Registration --------------*/
+
+ .form-group{
+  text-decoration: none;
+  font-size: 25px;
+  padding: 10px;
+}
+
+.inputText{
+  margin-left: 10px;
+  border: none;
+  border-bottom:black 1px solid;
+}
+
+.mybtn{
+  width: 200px;
+  font-size: 25px;
+  border-radius: 5px;
+  color: white;
+  padding: 5px;
+  margin: 5px;
+}
+
+/* --------------------Error 404 page notfound --------------------- */
+
+#notfound{
+  position: relative;
+  height: 100vh;
+}
+
+#notfound .notfound{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.notfound{
+  max-width: 920px;
+  width: 100%;
+  line-height: 1.4;
+  text-align: center;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.notfound .notfound-404{
+  position: absolute;
+  height: 100px;
+  top: 0;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+  z-index: -1;
+}
+
+.notfound .notfound-404 h1{
+  color: #ececec;
+  font-weight: 900px;
+  font-size: 276px;
+  margin: 0px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.notfound h2{
+  font-size: 46px;
+  color: black;
+  font-weight: 900;
+  text-transform:capitalize;
+  margin: 0px;
+}
+
+.notfound p{
+  font-size: 24px;
+  color: black;
+  font-weight: 400px;
+  margin-top: 15px;
+}
+
+.notfound a{
+  font-size: 18px;
+  border-radius: 12px;
+  text-decoration: none;
+  text-transform: uppercase;
+  background: #189cf0;
+  display: inline-block;
+  padding: 16px 38px;
+  border: 2px solid transparent;
+  color: white;
+  font-weight: 400;
+  -webkit-transition: 0.2s all;
+  transition: 0.2s all;
+}
+
+.notfound a:hover{
+  background-color: white;
+  border-color: #189cf0;
+  color: #189cf0;
+}
+
+@media only screen and (max-width: 480px){
+  .notfound .notfound-404 h1{
+    font-size: 162px;
+  }
+  .notfound h2{
+    font-size: 26px;
+  }
+} */
+
+/* ----------------------Home------------------ */
+ .home{
+  width: 20%;
+  height: 300vh;
+  opacity: 0.9;
+  display: flex;
+  justify-content: center;
+  align-items: left;
+  flex-direction: column;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container{
+  width: auto;
+  margin-left: 50px;
+}
+
+.container h1{
+  justify-content: center;
+  align-items: center;
+  font-size: 90px;
+  height: 60px;
+  font-weight: 50;
+  color: white;
+}
+
+.container p{
+  padding: 2px;
+  margin-top: 3%;
+  font-size: 40px;
+  font-weight: lighter;
+  color: white;
+}
+
+.order-now{
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  justify-content: center;
+  background-color: #121619;
+  height: 50px;
+  width: 180px;
+  text-decoration: none;
+  font-size: 26px;
+}
+
+.order-now:hover{
+  background-color: #07090a;
+  cursor: pointer;
+  transition: 0.3s ease-in;
+}
+
+@media only screen and (max-width: 650px){
+  .home{
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+/* ----------------------------footer-------------------------- */
+
+.footer{
+  text-align: center;
+  width: 100%;
+  font-size: large;
+}
+

@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "6219fedd67724ebcade3af0c"
+  },
+  "id": 1,
+  "image": "https://media.istockphoto.com/photos/online-food-delivery-chicken-biryani-packed-in-plastic-box-picture-id1254725253?s=612x612",
+  "name": "Chicken Tikka Biryani",
+  "desc": "Restaurant style Chicken Tikka Biryani packed for home delivery in plastic box or container with Raita and salan",
+  "price": 300,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6219fedd67724ebcade3af0d"
+  },
+  "id": 2,
+  "image": "https://media.istockphoto.com/photos/fish-steak-with-potatoes-and-vegetables-shot-picture-id1216757170?s=612x612",
+  "name": "Fish Steak",
+  "desc": "Fish steak with potatoes and vegetables high angle shot",
+  "price": 600,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6219fedd67724ebcade3af0e"
+  },
+  "id": 3,
+  "image": "https://media.istockphoto.com/photos/chicken-baken-oven-next-to-it-pilaf-menu-picture-id1217993758?s=612x612",
+  "name": "Chicken Baken",
+  "desc": "chicken baken oven menu",
+  "price": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6219fedd67724ebcade3af0f"
+  },
+  "id": 4,
+  "image": "https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_960_720.jpg",
+  "name": "pizza",
+  "desc": "pizza with extra chesse",
+  "price": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6219fedd67724ebcade3af10"
+  },
+  "id": 5,
+  "image": "https://media.istockphoto.com/photos/pizza-with-melting-mozzarella-picture-id679590138?s=612x612",
+  "name": "Pizza Crust",
+  "desc": "Pizza with thin crust and plenty of mozzarella and ingredients.",
+  "price": 600,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6219fedd67724ebcade3af11"
+  },
+  "id": 6,
+  "image": "https://media.istockphoto.com/photos/supreme-italian-pizza-with-pepperoni-picture-id510954389?s=612x612",
+  "name": "supreme pizza",
+  "desc": "Fresh supreme italian pizza with cheesy board",
+  "price": 700,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6219fedd67724ebcade3af12"
+  },
+  "id": 7,
+  "image": "https://media.istockphoto.com/photos/traditional-pancakes-with-mushroom-and-cabbage-filling-for-breakfast-picture-id1227407554?s=612x612",
+  "name": "Pancakes",
+  "desc": "Homemade thin pancakes with mushrooms, cabbage, parsley and fresh onions are served on a wooden serving board with sour cream sauce, selective focus",
+  "price": 300,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6219fedd67724ebcade3af13"
+  },
+  "id": 8,
+  "image": "https://media.istockphoto.com/photos/burger-with-beef-and-bacon-picture-id1166797165?s=612x612",
+  "name": "burger",
+  "desc": "Burger with a cutlet of murbled beef with cheddar cheese, bacon, spicy chili sauce, cucumber and tomato, in a white bun with sesame seeds served",
+  "price": 700,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6219fedd67724ebcade3af14"
+  },
+  "id": 9,
+  "image": "https://media.istockphoto.com/photos/double-cheeseburger-with-american-cheese-and-fries-on-pretzel-bun-picture-id1272532793?s=612x612",
+  "name": "Double cheese Burger",
+  "desc": "double cheeseburger with american cheese and fries on pretzel bun close up",
+  "price": 750,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6219fedd67724ebcade3af15"
+  },
+  "id": 10,
+  "image": "https://media.istockphoto.com/photos/hamburger-picture-id626462264?s=612x612",
+  "name": "burger",
+  "desc": "Appetizing hamburger with fries, beer on wooden cutting board. Pickles, onion, and cheddar cheese.",
+  "price": 800,
+  "__v": 0
+}]
